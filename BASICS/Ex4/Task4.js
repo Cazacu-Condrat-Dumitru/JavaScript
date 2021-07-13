@@ -1,6 +1,7 @@
+//todo use const
 function ucFirst (str){
 
   alert(str[0].toUpperCase() + str.slice(1));
   }
   
-  ucFirst(prompt('Write an lowercase word'));
+  ucFirst(prompt('lowercase word'));

@@ -1,7 +1,8 @@
-let dividers = (number) => {
+const dividers = (number) => {
   let div = 0;
+  //todo use for of
   for (let i = 0; i <= number; ++i) {
-    if (number % i == 0) {
+    if (number % i === 0) {
       div = div + i + ` `;
     }
   }
