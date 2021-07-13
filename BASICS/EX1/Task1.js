@@ -5,9 +5,14 @@ for (let i = 0; i < array.length; i++) {
 }
 
 //Method forEach
-array.forEach(element => console.log(element));
+//todo Read about foreach
+array.forEach((element, test) => console.log(test));
+
+//todo read about map
+array.map((element, test) => console.log(test));
 
 //Method for of
+//todo Выучите of in
 
 for (let n of array) {
     console.log(n);
@@ -34,6 +39,7 @@ do {
 while (a < array.length);
 
 //Method map
+//todo use method map()
 let map = new Map;
 
 map.set('a', 'b', 'c');
