@@ -1,6 +1,6 @@
 // let n;
 
-n = prompt ('Write an number from 0 to 9');
+const n = prompt ('Write an number from 0 to 9');
 
 switch(n){
 	case '0': alert('Zero');
