@@ -3,11 +3,11 @@ b = prompt('Write the second number');
 
 let sum = 0;
 
-s
+
 for (let n = a; n <= b; ++n) {
-  if (n % 2 == 0) {
-    sum = +n + sum;
+  if (n % 2 === 0) {
+    sum = n + sum;
   }
 }
 
-console.log(`The sum is: ${sum}`);
+alert(`The sum is: ${sum}`);
