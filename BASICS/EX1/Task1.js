@@ -40,6 +40,14 @@ while (a < array.length);
 
 //Method map
 //todo use method map()
+//The map() method creates a new array populated with
+// the results of calling a provided function on every element in the calling array.
+const array1 = [1, 4, 6, 9];
+
+const map1 = array1.map(x => x * 2);
+
+console.log(map1);
+
 let map = new Map;
 
 map.set('a', 'b', 'c');
