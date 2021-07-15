@@ -1,12 +1,22 @@
 const dividers = (number) => {
-  let div = 0;
+  /*let div = 0;*/
   //todo use for of
-  for (let i = 0; i <= number; ++i) {
+
+  let dividers = '';
+  for(let i of number){
+    if(number % i === 0 ){
+      dividers = dividers +i + ' ';
+    }
+  }
+  alert(dividers);
+}
+
+/*  for (let i = 0; i <= number; ++i) {
     if (number % i === 0) {
       div = div + i + ` `;
     }
   }
   alert(div);
-}
+}*/
 
 dividers(prompt(`Write a number`));
