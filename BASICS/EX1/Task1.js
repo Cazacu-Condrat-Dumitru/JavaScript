@@ -13,7 +13,7 @@ array.map((element, test) => console.log(test));
 
 //Method for of
 //todo Выучите of in
-
+//The in operator returns true if the specified property is in the specified object or its prototype chain.
 for (let n of array) {
     console.log(n);
 }
