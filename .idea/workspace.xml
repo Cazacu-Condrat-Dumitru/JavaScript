@@ -4,9 +4,9 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2fcc54e-a576-4490-9bd4-dfcba759783a" name="Default Changelist" comment="Finished task10">
-      <change afterPath="$PROJECT_DIR$/Basic/Ex1/Task1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/Ex1/Task1.js" afterDir="false" />
+    <list default="true" id="c2fcc54e-a576-4490-9bd4-dfcba759783a" name="Default Changelist" comment="test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/Ex1/Task1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/Ex1/Task1.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +96,9 @@
       <workItem from="1627907433067" duration="617000" />
       <workItem from="1627909758501" duration="74000" />
       <workItem from="1627909855775" duration="363000" />
-      <workItem from="1627910267907" duration="252000" />
+      <workItem from="1627910267907" duration="307000" />
+      <workItem from="1627920000503" duration="24000" />
+      <workItem from="1628859409873" duration="577000" />
     </task>
     <task id="LOCAL-00001" summary="test with WebStorm">
       <created>1626189747400</created>
@@ -252,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627656022363</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="test">
+      <created>1627910537160</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1627910537160</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -288,7 +297,8 @@
     <MESSAGE value="Finished task8 using function expression" />
     <MESSAGE value="Finished task9" />
     <MESSAGE value="Finished task10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished task10" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
